@@ -1,0 +1,14 @@
+@media screen and (max-width: 500px){
+    body{
+        background-color: rgb(68, 141, 146);
+    }
+}
+
+#navbar{
+    width: 100%;
+    height: 10vh;
+    background-color: brown;
+    position: sticky;
+    z-index: 1;
+    top: 0;
+}
